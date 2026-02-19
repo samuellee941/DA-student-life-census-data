@@ -1,15 +1,18 @@
 # Student Wellbeing Report based on Census Data 2024-25
 
+*Source*
+600+ response division-wide census in Excel
+
 *Methodology:*
 
 Trait vs Sentiment Correlation Analysis
 
 This analysis has two aims:
-  1. Identifies which sentiment questions are scored unusually low
-  (these should be immediately be considered and addressed)
-  2. Tests whether traits (grade, gender, involvement, years) predict
-     differences in sentiment responses (these should give us insights
-     into HOW to address issues, and which communities to target)
+1. Identifies which sentiment questions are scored unusually low
+(these should be immediately be considered and addressed)
+2. Tests whether traits (grade, gender, involvement, years) predict
+differences in sentiment responses (these should give us insights
+into HOW to address issues, and which communities to target)
 
 Tools Used: pandas, numpy, scipy.stats, matplotlib
 
@@ -17,11 +20,11 @@ Tools Used: pandas, numpy, scipy.stats, matplotlib
 
 Unusually low sentiments:
 
-Microsoft Teams as an info platform scored the absolute lowest (2.95/6)
-Cross Section and DragonNet also scored poorly as info platforms
-Grading consistency across teachers is a real pain point (3.39)
-Students holding each other accountable for racist/homophobic/sexist comments (3.56) — this is a substantive one
-Parental academic pressure is high (3.92 — note this is reverse-coded in spirit; high agreement = more stress)
+1. Microsoft Teams as an info platform scored the absolute lowest (2.95/6)
+2. Cross Section and DragonNet also scored poorly as info platforms
+3. Grading consistency across teachers is a real pain point (3.39)
+4. Students holding each other accountable for racist/homophobic/sexist comments (3.56) — this is a substantive one
+5. Parental academic pressure is high (3.92 — note this is reverse-coded in spirit; high agreement = more stress)
 
 Strongest trait to sentiment correlations:
 
