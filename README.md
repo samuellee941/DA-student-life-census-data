@@ -11,7 +11,7 @@ This analysis has two aims:
 1. Identifies which sentiment questions are scored unusually low
 (these should be immediately be considered and addressed)
 2. Tests whether traits (grade, gender, involvement, years) predict
-differences in sentiment responses (these should give us insights
+disparities in sentiment responses (these should give us insights
 into HOW to address issues, and which communities to target)
 
 Tools Used: pandas, numpy, scipy.stats, matplotlib
@@ -26,7 +26,7 @@ Unusually low sentiments:
 4. Students holding each other accountable for racist/homophobic/sexist comments (3.56) — this is a substantive one
 5. Parental academic pressure is high (3.92 — note this is reverse-coded in spirit; high agreement = more stress)
 
-Strongest trait to sentiment correlations:
+Strongest trait to sentiment disparities:
 
 1. Involvement (Sports/Arts) has the biggest skewing — participants score ~1 full point higher on community belonging,
 excitement to attend events, and comfort trying new activities (n ** 2 up to 0.16, which is a large effect).
