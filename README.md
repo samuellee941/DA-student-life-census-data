@@ -29,10 +29,10 @@ Unusually low sentiments:
 Strongest trait to sentiment correlations:
 
 1. Involvement (Sports/Arts) has the biggest skewing — participants score ~1 full point higher on community belonging,
-excitement to attend events, and comfort trying new activities (n ** 2 up to 0.16, which is a large effect). Chart 3 shows this clearly.
-2. Grade level matters a lot — Chart 2's heatmap shows a clear pattern: Grade 9s feel most supported and connected,
-and it drops steadily toward Grade 12. The biggest drops are in grading consistency, sense of having a trusted adult,
-and feeling equipped to balance academics with activities.
-3. Gender showed moderate effects on community belonging and excitement to come to school.
-4. Years at HKIS has weaker but real correlations — longer-tenured students find Instagram more useful and feel more
+excitement to attend events, and comfort trying new activities (n ** 2 up to 0.16, which is a large effect).
+2. Grade level matters a lot — Grade 9s feel most supported and connected, and it drops steadily toward Grade 12. The
+biggest drops are in grading consistency, sense of having a trusted adult, and feeling equipped to balance academics
+with activities.
+5. Gender showed moderate effects on community belonging and excitement to come to school.
+6. Years at HKIS has weaker but real correlations — longer-tenured students find Instagram more useful and feel more
 aware of service opportunities, but find Microsoft Teams less useful.
