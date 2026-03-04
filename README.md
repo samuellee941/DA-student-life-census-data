@@ -52,8 +52,7 @@ For reference:
   - **Effect size (Cohen's d > 0.3):** The magnitude of the difference clears a threshold. For 3+ groups, Cohen's d is computed between the highest and lowest scoring groups.
 - Pairings that pass both filters are flagged.
 
-[Raw Results HERE (all flagged traits/scores)]()
-
+**Edit: Raw Results Uploaded**
 > *Upon review, a lot of the results are intuitively discardable — PLEASE use intuition to understand what the numbers mean; they're merely a guide.*
 
 ---
